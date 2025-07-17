@@ -24,5 +24,5 @@ async def generate(ctx, length=10):
     password = password_m(length)
     await ctx.send(f"Wygenerowane hasło: {password}")
 
-bot.run("MTM1NzM5MDg2MTEyMTYxNzk1MA.GqSMdM.-E9iXQg93WgGtg_ibGNSdIkqbTE-jkgLnMd9_Y")
+bot.run("")
 
