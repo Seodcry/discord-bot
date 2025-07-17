@@ -46,5 +46,5 @@ async def event(ctx):
 
     await ctx.send(response)
     
-bot.run("MTM1NzM5MDg2MTEyMTYxNzk1MA.GqSMdM.-E9iXQg93WgGtg_ibGNSdIkqbTE-jkgLnMd9_Y")
+bot.run("")
 
